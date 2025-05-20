@@ -9,3 +9,7 @@
 ## FiscalAPI
 
 * [Начало интеграции (WIP)](fiscalapi/getting-started.md)
+
+## Репозитории модулей <a href="#registry" id="registry"></a>
+
+* [(WIP)](registry/getting-started.md)
