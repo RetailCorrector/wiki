@@ -2,14 +2,10 @@
 
 * [RetailCorrector](README.md)
 
-## SourceApi
+## Написание плагинов <a href="#development-plugins" id="development-plugins"></a>
 
-* [Начало интеграции (WIP)](sourceapi/getting-started.md)
+* [Требования к сборке](development-plugins/trebovaniya-k-sborke.md)
 
-## FiscalAPI
+***
 
-* [Начало интеграции (WIP)](fiscalapi/getting-started.md)
-
-## Репозитории модулей <a href="#registry" id="registry"></a>
-
-* [(WIP)](registry/getting-started.md)
+* [Источник чеков](istochnik-chekov.md)
